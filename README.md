@@ -33,7 +33,7 @@ This notebook is a structured set of notes I'm building while learning data scie
 
 1. Clone the repo
 ```bash
-   git clone https://github.com/Abhishekkushwaha15/numpy-pandas-notes.git
+   git clone https://github.com/theabhikushwaha/numpy-pandas-notes.git
 ```
 2. Install dependencies
 ```bash
